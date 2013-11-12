@@ -1,2 +1,2 @@
 Hello World!
-My first created repository
+My first created repository in GIT
